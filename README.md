@@ -6,7 +6,7 @@
 <h1>Info</h1>
 
 FMCA Tool is built on top of JaMaTa,  an earlier prototypical tool for managing different automata models. 
-The tool is still prototypical and under development. 
+The tool is still prototypical and under development, I am currently working on cleaning the code in the code-cleaning branch.
 At the actual stage, it has been mainly used by the author for developing the theory regarding FMCA, and the earlier formalisms MSCA and CA. 
 
 I am working (when I have free time) on improving its usability for potential users and I am  searching for some developer to help me on this topic.
