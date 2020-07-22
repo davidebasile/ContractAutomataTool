@@ -3,7 +3,7 @@
 
 ![The Architecture of FMCAT and FMCAT at work](./FMCAT.png) [fig:architecture]
 
-Note: I am currently working on the code-cleaning branch, to clean off legacy parts from the tool CAT (see CAT repository), 
+**Note:** I am currently working on the code-cleaning branch, to clean off legacy parts from the tool CAT (see CAT repository), 
 and rewrite other parts in Java 8.
 
 <h1>Info</h1>
@@ -38,7 +38,7 @@ The directory demoLMCS2020 contains an executable jar and the models used in thi
 
 <h1>FMCAT</h1>
 
-**what follows is an excerpt of SPLC 2017 publication (see References), recently the tool has been equipped with 
+**What follows is an excerpt of SPLC 2017 publication (see References), recently the tool has been equipped with 
  a choreography synthesis algorithm**
 
 Service-oriented computing (SOC)  is a paradigm for distributed
@@ -309,7 +309,7 @@ also used by the `FMCA` class for computing the orchestration of the
 service product line (i.e. the union of the mpc of the canonical
 products).
 
-<h1>Documentation</h1>
+<h1>References</h1>
 
 The documentation for this tool is available at:
 
